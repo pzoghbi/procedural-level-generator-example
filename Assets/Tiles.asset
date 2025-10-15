@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 798cda5d07cf427d86a7ab6b5bb01b15, type: 3}
+  m_Name: Tiles
+  m_EditorClassIdentifier: 
+  sizeUnits: 10
+  tileData:
+  - type: 3
+    gameObject: {fileID: 358403808573567551, guid: 2ff18d36ed6cd2a42a20653f7850b070, type: 3}
+  - type: 1
+    gameObject: {fileID: 4649827833598284632, guid: f8ddfeacc586cf54fa369c6967ce7902, type: 3}
+  - type: 5
+    gameObject: {fileID: 5426494568253742015, guid: a39558dda4f63ae4ca0edd6417bec74d, type: 3}
+  - type: 10
+    gameObject: {fileID: 9184518836527401813, guid: f848abe6286e33843919e504bbcb43dd, type: 3}
+  - type: 2
+    gameObject: {fileID: 7999897224351939400, guid: b1ae864c9fd2afb40a4a8661f4017eae, type: 3}
+  - type: 6
+    gameObject: {fileID: 4435289995352969659, guid: 6b76101ad883d2f4ea39b9c4a75e8bdd, type: 3}
+  - type: 8
+    gameObject: {fileID: 1929537867003821633, guid: 379f4ba5c67bff346a5d480e80043bed, type: 3}
+  - type: 12
+    gameObject: {fileID: 3190213686624729331, guid: e7ec0cd67e6d48649b0e3896b1a7327d, type: 3}
+  - type: 4
+    gameObject: {fileID: 4928521621988318157, guid: 91ed03852ca08fa4eaa2469ebf431cc8, type: 3}
+  - type: 9
+    gameObject: {fileID: 9029178029863740291, guid: 5c34ac714f4e80f4a8d2cdec53a90160, type: 3}
